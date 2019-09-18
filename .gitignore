@@ -1,0 +1,13 @@
+/.idea
+/libs
+/lib
+/target
+*.iml
+*.swp
+*.*~
+build-pom.xml
+/.settings
+.classpath
+.project
+local
+*.xml
